@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: DeploymentLauncherConfig
   m_EditorClassIdentifier: 
   AssemblyConfig:
-    ProjectName: unity_gdk
-    AssemblyName: myassembly
-    ShouldForceUpload: 0
+    ProjectName: beta_seven_mississippi_179
+    AssemblyName: myassembly123
+    ShouldForceUpload: 1
   DeploymentConfigs:
-  - ProjectName: unity_gdk
-    AssemblyName: myassembly
+  - ProjectName: beta_seven_mississippi_179
+    AssemblyName: myassembly123
     Deployment:
       Name: my_deployment
       SnapshotPath: snapshots/cloud.snapshot
